@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.intro-bg {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.project-1,
+.project-2,
+.project-3,
+.lang-1,
+.lang-2,
+.lang-3,
+.lang-4,
+.lang-5 {
+    border: 2px solid rgba(128, 128, 128, 0.795);
+}
